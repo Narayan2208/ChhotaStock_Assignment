@@ -35,7 +35,9 @@ import secElipImg  from "../Assets/Ellipse 2064.png"
 import thirdElipImg  from "../Assets/Ellipse 2084.png"
 import fourthElipImg  from "../Assets/Ellipse 2085.png"
 import onePlateform from '../Assets/Screenshot 2023-08-29 192218.png'
+import footer from "../Assets/Screenshot 2023-08-29 200710.png"
 import "./homepage.css"
+import Footer from "./Footer";
 const HomePage = () => {
   let stylingObj = {
     color: "#FFF",
@@ -260,6 +262,9 @@ Student. Bihar`}/>
         <ProfileCard cardElipsImages = {thirdElipImg} nameAndPlace = {`Ramesh, Software Engineer, Hyderabad`}/>
         <ProfileCard2 cardElipsImagesSec = {fourthElipImg} nameAndPlaceSec={`Piyush, 17 yrs experience in equities, Mumbai`}/>
         <ProfileCard cardElipsImages = {firstElipsImg} nameAndPlace = {`Mahesh, Swiggy delivery partner, Bengaluru`}/>
+      </div>
+      <div style={{width : "100%"}}>
+       <Footer/>
       </div>
     </>
   );
