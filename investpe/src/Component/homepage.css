@@ -1,0 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Gilroy:wght@700&display=swap');
+
+.placeholderStyle::placeholder {
+    color: white;
+  }
