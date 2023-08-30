@@ -1,0 +1,31 @@
+.reviews{
+    width: 80%;
+    margin: auto;
+    padding: 20px ;
+    position: relative;
+  }
+  .reviews img{
+    width: 100%;
+  }
+  .reviews-para1{
+  position: absolute;
+  top:0px;
+  right: 37%;
+  }
+  .reviews-para2{
+  position: absolute;
+  top:0px;
+  right: 5%;
+  }
+  .reviews-para2{
+  position: absolute;
+  }
+  .p1t1{
+    font-size: 40px;
+    font-weight: 700;
+  }
+  .p2t2{
+    margin-top: -30px;
+    font-size: 20px;
+    font-weight: 500;
+  }

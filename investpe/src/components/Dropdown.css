@@ -1,0 +1,31 @@
+.img{
+    width: 64px;
+    height: 64px;
+    margin-right: 20px;
+    margin-top: 20px;
+  }
+  
+  .heading{
+    font-family: Gilroy;
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  .para{
+      font-size: medium;
+      font-family: Gilroy;
+      width: 500px;
+      margin-top: -15px;
+  }
+  
+  .green{
+     color: #28B570;
+     font-weight: bold;
+     font-size: 15px;
+     font: Inter;
+  }
+  .main{
+      box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+      height: 400px;
+     
+  }

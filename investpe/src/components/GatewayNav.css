@@ -1,0 +1,31 @@
+.gateway-nav{
+    background: #171E27;
+display: flex;
+justify-content: space-between;
+padding: 10px 50px;
+height: 60px;
+}
+.gatenav-sub1{
+    display: flex;
+    align-items: center;
+}
+.gatewaynav-child2{
+    display: flex;
+    align-items: center;
+}
+.gatenav-sub2{
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 20%;
+    padding-right: 100px;
+    font-size: 20px;
+    font-weight: 400;
+}
+.gatewaynav-child3{
+    color: rgb(181, 180, 180);
+    display: flex;
+    align-items: center;
+    gap:10px;
+}

@@ -1,0 +1,89 @@
+.essential-main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+  }
+  
+
+  /* essential features section */
+
+  .graph1{
+    position: absolute;
+    height: 250px;
+    width: 350px;
+    right: 100px;
+    top: 70px;
+  }
+  .graph2{
+    position: absolute;
+    height: 250px;
+    width: 350px;
+    right: 160px;
+    top: 160px;
+  }
+  .graph3{
+    position: absolute;
+    height: 250px;
+    width: 350px;
+    right: 240px;
+    top:230px;
+  }
+  .pie {
+    position: absolute;
+    right: 100px;
+    bottom: 125px;
+    height: 50px;
+    width: 50px;
+  }
+  .coin {
+    position: absolute;
+    bottom: 25px;
+    height: 70px;
+    width: 50px;
+    right: 170px;
+  }
+
+  .essentialtxt1{
+    position: absolute;
+    width: 40%;
+    left: 140px;
+    top:210px;
+  }
+  .essentialtxt2{
+    position: absolute;
+    left: 140px;
+    top: 60px;
+    width: 55%;
+  }
+  .essential-btn-text{
+    position: absolute;
+    display: flex;
+    gap:40px;
+    bottom: 50px;
+    left: 170px;
+    align-items: center;
+    justify-content: center;
+  }
+  .essential-btn-text button{
+    background: linear-gradient(90.9deg, #FEC826 0.56%, #F3A61D 96.47%);
+border: none;
+width: 200px;
+font-size: 20px;
+box-shadow: 0px 4px 4px 0px #00000040;
+font-weight: 500;
+border-radius: 25px;
+height: 40px;
+}
+.essential-btn-text p{
+    text-decoration: underline;
+    font-size: 18px;
+    font-weight: 500;
+    color: white;
+}
+
+.bulb{
+    position: absolute;
+    bottom :170px ;
+    left: 130px;
+}

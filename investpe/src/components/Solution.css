@@ -1,0 +1,46 @@
+.solution-main{
+    width: 90%;
+    margin: auto;
+    margin-top: 70px;
+}
+.solution-para{
+    font-size: 30px;
+    font-weight: 700;
+}
+.solution-head{
+color: #28B570;
+font-size: 18px;
+}
+.flex1{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}
+.flex2{
+    display: flex;
+    gap: 30px;
+}
+.card11{
+    background:  linear-gradient(0deg, #FEF8EC, #FEF8EC);
+    border:2px solid  #FDE3AF;
+width: 200px;
+border-radius: 20px;
+padding: 20px;
+}
+.para11{
+color: #7C59CF;
+}
+.big11{
+    font-size: 21px;
+    font-weight: 700;
+    color: #7C59CF;
+}
+.card22{
+    display: flex;
+    gap: 20px;
+    background-color: #FAFCFD;
+    border: #FDE3AF;
+    border-radius: 20px;
+    width: 50%;
+    padding: 10px;
+}

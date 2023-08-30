@@ -1,0 +1,9 @@
+.investstack-main{
+    position: relative;
+}
+.groupimg{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}

@@ -1,14 +1,12 @@
-import logo from './logo.svg';
-import './App.css';
-import HomePage from './Component/HomePage';
-
+import logo from "./logo.svg";
+import "./App.css";
+import Allroutes from "./routing/Allroutes";
 
 function App() {
   return (
-    <>
-    <HomePage/>
-    {/* <InvestPeHome/> */}
-    </>
+    <div className="app">
+      <Allroutes />
+    </div>
   );
 }
 

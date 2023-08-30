@@ -1,0 +1,44 @@
+
+.invest-main{
+    width: 80%;
+    margin: auto;
+    margin-top: 80px;
+}
+.invest-para1{
+    font-size: 30px;
+    font-weight: 700;
+}
+
+
+.invest-para2{
+color: #777777;
+font-size: 20px;
+width: 37%;
+}
+.invest-para3{
+color: #777777;
+font-size: 20px;
+width: 47%;
+}
+.invest-cards img{
+height: 220px;
+width: 260px;
+}
+.invest-cards{
+    margin-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+    justify-content: space-evenly;
+}
+.svg-invest-bar{
+    position: absolute;
+    right: 470px;
+    top: 25px;
+
+}
+.horizontal-line1{
+  
+    width: 95%;
+    margin:  60px auto;
+}

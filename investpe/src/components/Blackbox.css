@@ -1,0 +1,39 @@
+.blackbg-main > img{
+ 
+    width: 85%;
+    margin: auto;
+    display: block;
+    margin-top: 30px;
+
+}
+.blackbg-main{
+    position: relative;
+}
+.head1{
+    position: absolute;
+    top: 0;
+    left: 50px;
+
+}
+.para-black{
+    position: absolute;
+    color: #CECECE;
+    font-size: 20px;
+    font-weight: 500;
+
+    top: 200px;
+    left: 250px;
+}
+.button-x{
+    background: linear-gradient(90.9deg, #FEC826 0.56%, #F3A61D 96.47%);
+    box-shadow: 0px 4px 4px 0px #00000040;
+    width: 200px;
+    height: 40px;
+    border-radius: 35px;
+    border: none;
+    position: absolute;
+    top: 350px;
+    left: 250px;
+    font-size: 18px;
+    font-weight: 500;
+}
